@@ -5,7 +5,7 @@ A GUI interface for Video-Retalking that allows improving the quality of the pro
 
 ![GUI ](https://github.com/ShmuelRonen/video-retalking-GUI-GFPGAN/assets/80190186/086b93de-8206-4aac-9090-e2a43f3a4ced)
 
-## Installation steps מפורט
+## שלבי ההתקנה מפורטים
   ## תלות להתקנה כדי שכל הפקודות יעבדו
  - Python - https://www.python.org/downloads
  - git - https://git-scm.com/downloads
@@ -32,6 +32,19 @@ conda install -c conda-forge dlib
 
 pip install -r requirements.txt
 ```
+### שיפור פנים
+1. הורד את הקבצים מהשיחרור שים אותם בתקייה אחת וחלץ
+2. שים את תקיית checkpoints בתוך תקיית הפרויקט
+3. שים את תקיית GFPGAN-engine ישירות בכונן C:/
+4. שים את הקבצים app בתקיית הפרויקט
+5. הפעל את app.bat 😀 בהצלחה!
+
+# תודות
+קרדיט למאגרים שבשימוש
+
+- [video-talking](https://github.com/OpenTalker/video-retalking)
+- [video-talking-GUI-GFPGAN](https://github.com/ShmuelRonen/video-retalking-GUI-GFPGAN)
+
 
 ## Installation steps
 It is advisable to install in the Root of C:\
