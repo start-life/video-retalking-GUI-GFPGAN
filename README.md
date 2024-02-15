@@ -17,7 +17,7 @@ A GUI interface for Video-Retalking that allows improving the quality of the pro
  - מדריך התקנה של cuDNN Archive כאן 👉 https://docs.nvidia.com/deeplearning/cudnn/installation/windows.html
 ```
 git clone https://github.com/start-life/video-retalking-GUI-GFPGAN.git
-cd video-retalking
+cd video-retalking-GUI-GFPGAN
 conda create -n video_retalking python=3.8
 conda activate video_retalking
 
