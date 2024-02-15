@@ -33,7 +33,7 @@ conda install -c conda-forge dlib
 pip install -r requirements.txt
 ```
 ### שיפור פנים
-1. הורד את הקבצים מהשיחרור שים אותם בתקייה אחת וחלץ
+1. הורד את הקבצים מה[שיחרור](https://github.com/start-life/video-retalking-GUI-GFPGAN/releases) שים אותם בתקייה אחת וחלץ
 2. שים את תקיית `checkpoints` בתוך תקיית הפרויקט
 3. שים את תקיית `GFPGAN-engine` ישירות בכונן C:/
 4. שים את הקבצים `app` בתקיית הפרויקט
