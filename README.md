@@ -31,6 +31,9 @@ pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 -f https://download.pyt
 conda install -c conda-forge dlib
 
 pip install -r requirements.txt
+pip install ffmpeg-python
+
+pip install gfpgan
 ```
 ### שיפור פנים
 1. הורד את הקבצים מה[שיחרור](https://github.com/start-life/video-retalking-GUI-GFPGAN/releases) שים אותם בתקייה אחת וחלץ
