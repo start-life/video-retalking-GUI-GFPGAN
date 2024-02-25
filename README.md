@@ -3,7 +3,7 @@
 
 A GUI interface for Video-Retalking that allows improving the quality of the product with the addition of a GFPGAN step that increases the quality of the final product.
 
-![GUI ](https://github.com/ShmuelRonen/video-retalking-GUI-GFPGAN/assets/80190186/086b93de-8206-4aac-9090-e2a43f3a4ced)
+![GUI ](https://github.com/start-life/video-retalking-GUI-GFPGAN/blob/main/docs/1.2.0.png)
 
 ## שלבי ההתקנה מפורטים
   ## תלות להתקנה כדי שכל הפקודות יעבדו
